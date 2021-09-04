@@ -19,12 +19,12 @@
 **Let me show an example :**  
 ```
 {  
-    &nbsp;&nbsp;"question": " How do you write 'Hello World' in an alert box?",  // Question  
-    &nbsp;&nbsp;"choice1": "msgBox('Hello World');",  // OPTION1  
-    &nbsp;&nbsp;"choice2": "alertBox('Hello World');",  // OPTION2  
-    &nbsp;&nbsp;"choice3": "msg('Hello World');",  // OPTION3  
-    &nbsp;&nbsp;"choice4": "alert('Hello World');",  // OPTION4  
-    &nbsp;&nbsp;"answer": 4  // Correct answer  
+    "question": " Who is known as Father of Computer?",  // Question  
+    "choice1": "Charles Darwin",  // OPTION1  
+    "choice2": "Charles Babbage",  // OPTION2  
+    "choice3": "Tim Bernes Lee",  // OPTION3  
+    "choice4": "Darwin Babbage",  // OPTION4  
+    "answer": 2  // Correct answer  
   }  
 ```
 
