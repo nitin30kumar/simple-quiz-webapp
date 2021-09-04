@@ -11,7 +11,7 @@
 
 # How to add questions  
 
-> Step1. Open the file questions.json  
+> Step1. Open the file [questions.json](https://github.com/nitin30kumar/simple-quiz-webapp/blob/main/questions.json)  
 > Step2. Add the curly braces ('{}') data & feed the relevant questions with options & correct options as needed.   
 > Step3. Save the file & re-run the project.  
 
