@@ -17,7 +17,7 @@
 
 
 **Let me show an example :**  
-<code>
+```
 {  
     &nbsp;&nbsp;"question": " How do you write 'Hello World' in an alert box?",  // Question  
     &nbsp;&nbsp;"choice1": "msgBox('Hello World');",  // OPTION1  
@@ -26,7 +26,7 @@
     &nbsp;&nbsp;"choice4": "alert('Hello World');",  // OPTION4  
     &nbsp;&nbsp;"answer": 4  // Correct answer  
   }  
-</code>
+```
 
 **Please put a colon after ending of previous data else, json file will not work.**  
 
